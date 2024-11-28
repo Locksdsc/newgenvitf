@@ -1,5 +1,4 @@
-être				
-	je				
+				je				
 	de				
 	ne				
 	avoir				
